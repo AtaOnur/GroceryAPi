@@ -1,0 +1,11 @@
+[
+  {
+    "Id": 99,
+    "Name": "string",
+    "Description": "string",
+    "ExpirationDate": "string",
+    "ProductCost": 0.0,
+    "ProductPrice": 0.0,
+    "Profit": 0.0
+  }
+]

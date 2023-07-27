@@ -1,0 +1,11 @@
+[
+  {
+    "Id": 2,
+    "Name": "Armut",
+    "Description": "Deveci",
+    "ExpirationDate": "11.12.2023",
+    "ProductCost": 43.0,
+    "ProductPrice": 50.0,
+    "Profit": 32.4
+  }
+]
